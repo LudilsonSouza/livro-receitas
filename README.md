@@ -1,6 +1,7 @@
 # Livro de receitas :man_cook:
 
-Olá! Bem cindo ao meu livro de receitas :tada:
+Olá! Bem vindo ao meu livro de receitas :tada:
 
 * Strogonoff de frango
+* Pavê
 
